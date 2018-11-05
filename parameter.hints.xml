@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="e.android.gaglespil.BrugerList.BrugerList(context,brugerList)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
